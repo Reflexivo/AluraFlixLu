@@ -2,8 +2,10 @@ body{
     color:beige;
     background-color:darkgreen;
     font-family: "Poetsen One", sans-serif;
+    margin:0px;
 }
 
 header{
 background-color:blue;
+color:aquamarine;
 }
