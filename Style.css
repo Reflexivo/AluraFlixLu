@@ -6,6 +6,15 @@ body{
 }
 
 header{
-    border-bottom: solid 2px rgb(79, 149, 240);
+    border-bottom: solid 2px rgb(22, 106, 218);
     padding: 20px;
+    font-size: 30px;
+}
+
+h1{
+color: rgb(79, 149, 240)
+}
+
+p{
+
 }
