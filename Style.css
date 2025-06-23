@@ -6,6 +6,6 @@ body{
 }
 
 header{
-background-color:blue;
-color:aquamarine;
+    border-bottom: solid 2px rgb(79, 149, 240);
+    padding: 20px;
 }
